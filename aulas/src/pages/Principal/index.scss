@@ -11,9 +11,11 @@
         .nav{
             margin-top: 50px;
             margin-left: 100px;
+            display: flex;
+            gap: 40px;
             .banner{
                 background-color:rgb(238, 38, 71);
-                max-width: 15%;
+                min-width: 13%;
                 height: 200px;
                 display: flex;
                 justify-content: center;
